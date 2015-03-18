@@ -1,5 +1,5 @@
 ## The following two functions can be used in conjunction to cache the inverse of a matrix and then retrieve the 
-## cached inverse if the matrix has not changed
+## cached inverse if the matrix has not changed.
 ##
 ##
 ## The first function makeCacheMatrix has one argument 'x' which is a matrix. The function creates a special 
